@@ -10,9 +10,7 @@ Integration of Large Language Models (OpenAI GPT &amp; Mistral) with ROS-based r
 - Tested in simulation (Panda — MoveIt! + Gazebo). Training loss reported: **0.1206** (MSE).
 
 ### 🎬 Live Demonstration
-<p align="center">
-  <video src="https://github.com/Preeti2802/LLM-Interface-for-Robot-Manipulator-Control/raw/main/llm_panda_simulation.mp4" controls width="700"></video>
-  <br>
-  <em>Simulation of Panda Arm executing natural-language-based control via LLM–ROS integration.</em>
-</p>
+**Download / play video:**  
+[Simulation video (MP4)](https://github.com/Preeti2802/LLM-Interface-for-Robot-Manipulator-Control/raw/main/llm_panda_simulation.mp4)
+
 
