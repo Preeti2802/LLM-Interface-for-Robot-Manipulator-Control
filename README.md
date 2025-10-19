@@ -8,3 +8,7 @@ Integration of Large Language Models (OpenAI GPT &amp; Mistral) with ROS-based r
 - Fine-tuning/few-shot strategy for GPT-3.5 turbo to reliably extract numeric parameters and relative/absolute intent (41 training samples used for fine-tuning).
 - Pattern path generator (square/triangle/circle) that expands high-level pattern instructions into sequential subtasks and executes them.
 - Tested in simulation (Panda — MoveIt! + Gazebo). Training loss reported: **0.1206** (MSE).
+
+### 🎬 Live Demonstration
+<video src="[https://github.com/Preeti2802/LLM-Interface-for-Robot-Manipulator-Control/llm_panda_simulation.mp4" controls width="700">
+</video>
